@@ -5,12 +5,13 @@ I am a Computer Science student at the University of Economics and Computer Scie
 
 ### 💻 What I'm Learning
 - **Python**
+- **R**
 - **Java**
 - **SQL**
 - **Power BI**
 - **C#**
 - **ASP.NET**
-- **HTML & CSS**
+- **Scala**
 
 ### 🛠️ Skills & Certifications
 - **C++ Programming**: Hands-on experience gained during my internship at BT Electronics, where I programmed a power supply system.
